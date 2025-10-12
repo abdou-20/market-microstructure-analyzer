@@ -1,0 +1,27 @@
+# Data Processing Configuration
+
+# Order book parsing
+max_levels: 10
+validate_data: true
+sort_levels: true
+
+# Sequence configuration
+sequence_length: 50
+prediction_horizon: 1
+lookback_window: 10
+
+# Data preprocessing
+scaler_type: 'standard'  # 'standard', 'minmax', 'robust', 'none'
+
+# Data splitting (temporal)
+train_ratio: 0.7
+val_ratio: 0.15
+# test_ratio: 0.15 (automatically calculated)
+
+# Feature engineering flags
+extract_ofi: true
+extract_spread_features: true
+extract_volume_features: true
+extract_price_features: true
+extract_microstructure_features: true
+extract_technical_features: true

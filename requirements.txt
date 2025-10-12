@@ -1,0 +1,45 @@
+# Core ML/DL Libraries
+torch>=2.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+scikit-learn>=1.3.0
+
+# Data Processing & Analysis
+scipy>=1.11.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Configuration & Utilities
+pyyaml>=6.0
+click>=8.1.0
+tqdm>=4.65.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Real-time Processing (Phase 6)
+websockets>=10.0
+aiohttp>=3.8.0
+
+# API Server (Optional - for production features)
+fastapi>=0.68.0
+uvicorn>=0.15.0
+pydantic>=1.8.0
+
+# Dashboard (Optional - for visualization)
+streamlit>=1.10.0
+altair>=4.2.0
+
+# Hyperparameter Optimization
+optuna>=2.10.0
+
+# Development & Monitoring (Optional)
+tensorboard>=2.13.0
+
+# Additional Utilities
+colorama>=0.4.4
+python-dateutil>=2.8.0

@@ -1,0 +1,31 @@
+# Backtesting Configuration
+
+# Backtesting engine
+engine_type: 'event_driven'
+initial_capital: 100000.0
+max_position_size: 0.1  # As fraction of capital
+
+# Transaction costs
+fixed_fee: 0.0  # Fixed fee per trade ($)
+percentage_fee: 0.001  # 0.1% fee
+spread_cost: true  # Account for spread crossing
+
+# Market impact modeling
+use_market_impact: true
+impact_model: 'sqrt'  # 'sqrt', 'linear', 'none'
+impact_coefficient: 0.1
+
+# Slippage simulation
+use_slippage: true
+slippage_bps: 1.0  # Basis points
+
+# Risk management
+max_drawdown_pct: 15.0
+stop_loss_pct: null  # Optional stop loss percentage
+take_profit_pct: null  # Optional take profit percentage
+
+# Walk-forward validation
+use_walk_forward: true
+train_window_days: 30
+test_window_days: 5
+step_days: 5
